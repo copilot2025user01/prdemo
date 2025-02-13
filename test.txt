@@ -1,0 +1,1 @@
+Hi, This is msg from   main  -  test.txt
